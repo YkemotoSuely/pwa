@@ -1,11 +1,11 @@
 
 {
-    "name" : "Olá mundo",
+    "name" : "Olá Mundo",
     "short-name": "Olá",
     "start_url":".",
-    "thema_color":"#ffffff",
+    "thema_color":"#000000",
     "display" : "standalone",
-    "background_color": "#000000",
+    "background_color": "#ffffff",
     "description":"Página de olá mundo",
     "lang":"pt-BR",
    
